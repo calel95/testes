@@ -1,3 +1,4 @@
+#https://md5decrypt.net/en/#answer
 import hashlib
 
 arquivo1 = 'a.txt'
